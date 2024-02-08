@@ -13,7 +13,7 @@
 
 ## Intro
 
-![Implementation of a basic multilayer perceptron](resources/UI.png)
+![Implementation of a basic multilayer perceptron](src/resources/UI.png)
 
 A simple artificial neural network in the form of a perceptron, which was trained on an open dataset to perform recognition of 26 handwritten letters of the Latin alphabet. The perceptron core part is implemented in two ways: matrix form and graph form.
 
