@@ -82,6 +82,7 @@ class Perceptron : public QObject {
   QChar output_;
   DataSet ds_;
 };
+
 }  // namespace s21
 
 #endif  // SRC_MODEL_PERCEPTRON_H_
