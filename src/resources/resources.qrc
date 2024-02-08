@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bmp.png</file>
+        <file>pencil.png</file>
+        <file>background_m.bmp</file>
+        <file>pngegg1.png</file>
+    </qresource>
+</RCC>
