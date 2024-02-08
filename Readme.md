@@ -50,6 +50,6 @@ A simple artificial neural network in the form of a perceptron, which was traine
 
 ## Contributors
 
-- wmicha
-- hmetallo
-- hsensor
+- wmicha (Dmitriy Nikitin)
+- hmetallo (Leonid Karataev)
+- hsensor (Alexey)
